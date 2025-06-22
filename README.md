@@ -37,8 +37,15 @@ CGI reproduction of "The Postman" ad spot, project for the “Computer Animation
 ### Dragòn - 3D Environment
 CGI render of an original environment, part of the project for "Computer Graphics" exam at Politecnico di Torino. Experienced with all classical and modern modeling techniques, including fluid simulation, sculpting, complex procedural materials, dynamic painting etc.
 
+<a href="./assets/Dragon_Horizontal.png">
+  <img src="https://…/kitten-thumb.jpg" alt="Click to enlarge"
+       style="transition: transform 0.3s;">
+</a>
+<style>
+  img:hover { transform: scale(1.05); }
+</style>
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 [<img align="left" 
       alt="LinkedIn" 
       width="22px" 
