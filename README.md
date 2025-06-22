@@ -37,7 +37,45 @@ CGI reproduction of "The Postman" ad spot, project for the “Computer Animation
 ### Dragòn - 3D Environment
 CGI render of an original environment, part of the project for "Computer Graphics" exam at Politecnico di Torino. Experienced with all classical and modern modeling techniques, including fluid simulation, sculpting, complex procedural materials, dynamic painting etc.
 
-[![Click to enlarge](assets/Dragon_Horizontal)](assets/Dragon_Horizontal)
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 500 160"
+     width="500" height="160">
+
+  <rect x="0" y="0" width="500" height="160"
+        fill="none"
+        stroke="#ddd"
+        stroke-width="4"
+        rx="8" ry="8"/>
+
+  <a xlink:href="./assets/Dragon_Horizontal.png" target="_blank">
+    <image
+      x="10" y="30"
+      width="150" height="100"
+      xlink:href="./assets/Dragon_Horizontal.png"
+      preserveAspectRatio="xMidYMid meet"
+      />
+  </a>
+
+  <a xlink:href="./assets/Dragon_Vertical.png" target="_blank">
+    <image
+      x="175" y="30"
+      width="150" height="100"
+      xlink:href="./assets/Dragon_Vertical.png"
+      preserveAspectRatio="xMidYMid meet"
+      />
+  </a>
+
+  <a xlink:href="./assets/Dragon_Closeup.png" target="_blank">
+    <image
+      x="340" y="30"
+      width="150" height="100"
+      xlink:href="./assets/Dragon_Closeup.png"
+      preserveAspectRatio="xMidYMid meet"
+      />
+  </a>
+</svg>
+
 
 ## 🤳 Connect with me:
 [<img align="left" 
