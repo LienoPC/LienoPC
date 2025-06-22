@@ -30,12 +30,12 @@
 ### 🎞 "The Postman" Animation Reproduction
 CGI reproduction of "The Postman" ad spot, project for the “Computer Animation” exam at Politecnico di Torino. Produced a 30-second video in 3D graphics with Blender; worked specifically on:
 - Modeling and rigging of the dog  
-- Scene animation using modern keyframing and motion techniques  
+- Scene animation using modern keyframing and motion techniques
 
 [Watch the video on Google Drive](https://drive.google.com/file/d/1nNUjLfxLM2uWLDchs6Co6osewBRVnn9Z)
 
 ### 🆛 Dragòn - 3D Environment
-CGI render of an original environment, part of the project for "Computer Graphics" exam at Politecnico di Torino. Experienced with all classical and modern modeling techniques, including fluid simulation, sculpting, complex procedural materials, dynamic painting etc.
+CGI render of an original environment, part of the project for "Computer Graphics" exam at Politecnico di Torino. Experienced with classical and modern modeling techniques, including fluid simulation, sculpting, soft and rigid bodies, dynamic painting etc.
 
    <a href="assets/Dragon_Vertical.png" target="_blank">
     <img
