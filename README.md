@@ -34,6 +34,10 @@ CGI reproduction of "The Postman" ad spot, project for the “Computer Animation
 
 [Watch the video on Google Drive](https://drive.google.com/file/d/1nNUjLfxLM2uWLDchs6Co6osewBRVnn9Z)
 
+### Dragòn - 3D Environment
+CGI render of an original environment, part of the project for "Computer Graphics" exam at Politecnico di Torino. Experienced with all classical and modern modeling techniques, including fluid simulation, sculpting, complex procedural materials, dynamic painting etc.
+
+
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" 
       alt="LinkedIn" 
