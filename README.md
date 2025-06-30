@@ -30,8 +30,9 @@
 
 ### 🎞 "The Postman" Animation Reproduction
 CGI reproduction of "The Postman" ad spot, project for the “Computer Animation” exam at Politecnico di Torino. Produced a 30-second video in 3D graphics with Blender; worked specifically on:
-- Modeling and rigging of the dog  
+- Modeling, rigging and animation of the dog  
 - Scene animation using modern keyframing and motion techniques
+- Video sections on which I worked: 0:11-0:13; 0:18-0:23, 0:27-0:29 (fence)
 
 [Watch the video on Google Drive](https://drive.google.com/file/d/1nNUjLfxLM2uWLDchs6Co6osewBRVnn9Z)
 
