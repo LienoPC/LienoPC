@@ -6,12 +6,11 @@
   - **Slash: Soulslike Demo** [Slash Project - Unreal Demo](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
 
 - <b> Unity Projects </b>
-  - **The Plague in Milan** – Itch.io page: [https://giulio-arecco.itch.io/the-plague-in-milan](https://giulio-arecco.itch.io/the-plague-in-milan)
-
-  <!-- [Project Mecha-Ball] -->
+  - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
+  - **Project Mecha-Ball** - Coming Soon!
 
 - <b> OpenGL C++ </b>
-  - **Dragòn** [Dragòn - 2D Scroller Game](https://github.com/LienoPC/Dragon--2D-Scroller-Game.git)
+  - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ)
 
 ## 🤖 Machine Learning/AI Projects
 - <b> CNN Model for automatic manga colorization </b>
@@ -24,6 +23,8 @@
   - [N-Body Cuda Simulation](https://github.com/LienoPC/N-BodySimulation.git)
 - <b> OS161 Kernel extension: Demand Paging memory system implementation </b>
   - [OS161 - Demand Paging System](https://github.com/LienoPC/OS161-DemandPaging.git)
+- <b> Misfortune Game: a web application developed in React and Javascript (frontend and backend) </b>
+  - []
 
 ## Other Projects
 
