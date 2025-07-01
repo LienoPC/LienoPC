@@ -6,8 +6,10 @@
   - **Slash: Soulslike Demo** [Slash Project - Unreal Demo](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
 
 - <b> Unity Projects </b>
+  - **Project Mecha-Ball** - [Features Showcase (WIP!!!)](https://youtu.be/iuCHcIRQems)
+      - Isometric puzzle game featuring a small robot: help its AI to train and become the best problem solving system
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
-  - **Project Mecha-Ball** - Coming Soon!
+      - First person educational game developed for "Virtual Reality" course (Dialogues and texts are in italian!)
 
 - <b> OpenGL C++ </b>
   - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ)
