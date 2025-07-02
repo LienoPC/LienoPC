@@ -1,10 +1,10 @@
 # Hi there, I'm Alberto!
 ## 🎮	Game Development Projects:
 - <b> Unity Projects </b>
-  - **Project Mecha-Ball** - [Features Showcase (WIP!!!)](https://youtu.be/iuCHcIRQems)
+  - **Project Mecha-Ball** - [Features Showcase (WIP)](https://youtu.be/iuCHcIRQems)
       - Isometric puzzle game featuring a small robot: help its AI to train and become the best problem solving system
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
-      - First person educational game developed for "Virtual Reality" course (Dialogues and texts are in italian!)
+      - First person educational game developed for "Virtual Reality" course (Dialogues and texts are in italian)
 
 - <b> Unreal Engine 5 Projects </b>
   - **Aura: Top-Down RPG** [Aura Project - Unreal Gameplay Ability System](https://github.com/LienoPC/Aura-GameplayAbilitySystem.git)
@@ -24,6 +24,8 @@
   - [N-Body Cuda Simulation](https://github.com/LienoPC/N-BodySimulation.git)
 - <b> OS161 Kernel extension: Demand Paging memory system implementation </b>
   - [OS161 - Demand Paging System](https://github.com/LienoPC/OS161-DemandPaging.git)
+- <b> EZ-Electronics: online store web application.</b>
+  - []()
 - <b> Misfortune Game: a web application developed in React and Javascript (frontend and backend) </b>
   - [Web-Application-1-Exam](https://github.com/LienoPC/Web-Application-1-exam.git)
 
