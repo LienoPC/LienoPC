@@ -3,18 +3,19 @@ Computer Engineer with a strong focus on Game Development and Real-Time Graphics
 ## 🎮	Game Development Projects:
 - <b> Unity Projects </b>
   - **Project Mecha-Ball** - [Features Showcase (WIP)](https://youtu.be/iuCHcIRQems)
-      - Isometric puzzle game featuring a small robot. Help its AI train and become the best problem-solving system.
-      - Currently a work-in-progress, developed in a 6-person team as part of the "Game Design" course
+      - Isometric puzzle game featuring a small robot. Help its AI train and become the best problem-solving system
+      - Currently a work-in-progress, developing in a 6-person team as part of the "Game Design" course
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
-      - First-person educational game developed as part of a team (4 people) for the “Virtual Reality” course (Dialogue and text are in Italian)
+      - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
 - <b> Unreal Engine 5 Projects </b>
-  - **Aura: Top-Down RPG** [Aura Project - Unreal Gameplay Ability System](https://github.com/LienoPC/Aura-GameplayAbilitySystem.git)
-  - **Slash: Soulslike Demo** [Slash Project - Unreal Demo](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
+  Self-driven projects developed for educational and skill-building purposes, aimed at mastering Unreal Engine 5 workflows and systems:
+  - **Aura: Top-Down RPG** Implemented Gameplay Ability System to create scalable character abilities and effects in a top-down RPG framework.[GitHub Repository](https://github.com/LienoPC/Aura-GameplayAbilitySystem.git)
+  - **Slash: Soulslike Demo** Prototyped core combat mechanics inspired by Soulslike games, focusing on animation montages, hit detection, and enemy AI behavior. [GitHub Repository](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
 
 - <b> OpenGL C++ </b>
   - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ)
-    - 2D Game developed as part of a 3-person team for the "Computer Graphics" course.
+    - 2D Game developed as part of a 3-person team for the "Computer Graphics" course
 
 ## 🤖 Machine Learning/AI Projects
 - <b> CNN Model for automatic manga colorization </b>
