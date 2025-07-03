@@ -9,7 +9,7 @@ Computer Engineer with a strong focus on Game Development and Real-Time Graphics
       - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
 - <b> Unreal Engine 5 Projects </b>
-  Self-driven projects developed for educational and skill-building purposes, aimed at mastering Unreal Engine 5 workflows and systems:
+  <br>Self-driven projects developed for educational and skill-building purposes, aimed at mastering Unreal Engine 5 workflows and systems:
   - **Aura: Top-Down RPG** Implemented Gameplay Ability System to create scalable character abilities and effects in a top-down RPG framework.[GitHub Repository](https://github.com/LienoPC/Aura-GameplayAbilitySystem.git)
   - **Slash: Soulslike Demo** Prototyped core combat mechanics inspired by Soulslike games, focusing on animation montages, hit detection, and enemy AI behavior. [GitHub Repository](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
 
