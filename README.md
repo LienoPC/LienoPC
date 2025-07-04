@@ -11,9 +11,9 @@ Computer Engineer with a strong focus on Game Development and Real-Time Graphics
 - <b> Unreal Engine 5 Projects </b>
   <br>Self-driven projects developed for educational and skill-building purposes, aimed at mastering Unreal Engine 5 workflows and systems:
   - **Aura: Top-Down RPG (WIP)** [GitHub Repository](https://github.com/LienoPC/Aura-GameplayAbilitySystem.git)
-    - Implementing Gameplay Ability System to create scalable character abilities and effects in a top-down RPG game.
+    - Implementing Gameplay Ability System to create scalable character abilities and effects in a top-down RPG game
   - **Slash: Soulslike Demo** [GitHub Repository](https://github.com/LienoPC/UE5-StartingCourse-SlashProject.git)
-    - Prototyped core combat mechanics inspired by Soulslike games, focusing on animation montages, hit detection, and simple enemy AI behavior.
+    - Prototyped core combat mechanics inspired by Soulslike games, focusing on animation montages, hit detection, and simple enemy AI behavior
 
 - <b> OpenGL C++ </b>
   - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ)
