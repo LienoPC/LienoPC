@@ -1,5 +1,5 @@
 # Hi there, I'm Alberto!
-Computer Engineer with a strong focus on Game Development and Real-Time Graphics Applications.
+Computer Engineer and Game Developer.
 ## 🎮	Game Development Projects:
 - <b> Unity Projects </b>
   - **Project Mecha-Ball** - [Features Showcase (WIP)](https://youtu.be/iuCHcIRQems)
