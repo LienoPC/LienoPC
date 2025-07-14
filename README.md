@@ -2,9 +2,9 @@
 Computer Engineer and Game Developer.
 ## 🎮	Game Development Projects:
 - <b> Unity Projects </b>
-  - **Project Mecha-Ball** - [Features Showcase (WIP)](https://youtu.be/iuCHcIRQems)
+  - **Project Mecha-Ball** - [Features Showcase](https://www.youtube.com/watch?v=LLXxinfmF0Q)
       - Isometric puzzle game featuring a small robot. Help its AI train and become the best problem-solving system
-      - Currently a work-in-progress, developing in a 6-person team as part of the "Game Design" course
+      - Developed in a 6-person team as part of the "Game Design" course
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
       - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
