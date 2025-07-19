@@ -2,9 +2,18 @@
 Computer Engineer and Game Developer.
 ## 🎮	Game Development Projects:
 - <b> Unity Projects </b>
-  - **Project Mecha-Ball** - [Features Showcase](https://www.youtube.com/watch?v=LLXxinfmF0Q)
+  - **Project Mecha-Ball** - [Features Showcase](https://www.youtube.com/watch?v=LLXxinfmF0Q) - [Itch.io page](https://lienopc.itch.io/project-mecha-ball)
       - Isometric puzzle game featuring a small robot. Help its AI train and become the best problem-solving system
       - Developed in a 6-person team as part of the "Game Design" course
+      - Worked specifically on:
+        - High-level player logic, player ball controller and multiple control module system
+        - Player animation system, procedural animation and its interaction with physics
+        - Player physics system
+        - Game loading management and game architecture; game states logic and transition between states
+        - Game design and level design (level 4)
+        - Integration of FMOD Studio within the project pipeline
+        
+      - Gave me the opportunity to work on the design, architecture, and implementation of a larger game structure within a team-managed pipeline.
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
       - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
