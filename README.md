@@ -6,6 +6,7 @@ Computer Engineer and Game Developer.
       - Isometric puzzle game featuring a small robot. Help its AI train and become the best problem-solving system
       - Developed in a 6-person team as part of the "Game Design" course
       - Worked specifically on:
+        - Basic concept and design
         - High-level player logic, player ball controller and multiple control module system
         - Player animation system, procedural animation and its interaction with physics
         - Player physics system
@@ -24,7 +25,6 @@ Computer Engineer and Game Developer.
 
 - <b> OpenGL C++ </b>
   - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ) - [GitHub Repository](https://github.com/LienoPC/Dragon--2D-Scroller-Game)
-    - 2D Game developed as part of a 3-person team for the "Computer Graphics" course
 
 ## 🤖 Machine Learning/AI Projects
 - <b> CNN Model for automatic manga colorization </b>
