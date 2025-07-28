@@ -23,7 +23,7 @@ Computer Engineer and Game Developer.
     - Prototyped core combat mechanics inspired by Soulslike games, focusing on animation montages, hit detection, and simple enemy AI behavior
 
 - <b> OpenGL C++ </b>
-  - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ)
+  - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ) - [GitHub Repository](https://github.com/LienoPC/Dragon--2D-Scroller-Game)
     - 2D Game developed as part of a 3-person team for the "Computer Graphics" course
 
 ## 🤖 Machine Learning/AI Projects
