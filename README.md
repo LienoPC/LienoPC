@@ -12,7 +12,7 @@ Computer Engineer and Game Developer.
         - Player physics system
         - Game loading management and game architecture; game states logic and transition between states
         - Game design and level design (level 4)
-        - Integration of FMOD Studio within the project pipeline
+        - Integration of FMOD Studio within the project pipeline and audio engineering of the entire project
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
       - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
