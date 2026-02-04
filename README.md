@@ -13,6 +13,13 @@ Computer Engineer and Game Developer.
         - Game loading management and game architecture; game states logic and transition between states
         - Game design and level design (level 4)
         - Integration of FMOD Studio within the project pipeline and audio engineering of the entire project
+  - **True Vision | GGJ 2026** - [Itch.io page]() - [Trailer](https://www.youtube.com/watch?v=tWzppYTZRHA)
+      - Project developed during the 2026 Global Game Jam in a team of 5 people. Worked as programmer, specifically on:
+        - Attacks, hitbox and enemy-interaction mechanics
+        - Hook mechanic with interaction with walls and object dragging
+        - In-game buttons and plates with trigger logic associated
+        - Game architecture, audio system, level logic
+        - Base concept and demo level
   - **The Plague in Milan** – [Itch.io page](https://giulio-arecco.itch.io/the-plague-in-milan)
       - First-person educational game developed as part of a team (4-person) for the “Virtual Reality” course (Dialogue and text are in Italian)
 
