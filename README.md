@@ -32,7 +32,7 @@ Computer Engineer and Game Developer.
 
 - <b> OpenGL C++ </b>
   - **Dragòn** [Dragòn - 2D Scroller Game](https://youtu.be/oxvbj1901CQ) - [GitHub Repository](https://github.com/LienoPC/Dragon--2D-Scroller-Game)
-    - Gained experience with C++ coding principles and data structures in the context of a complex project, while also working with the OpenGL graphics library.
+    - Gained experience with C++ coding principles and data structures in the context of game development, while also working with OpenGL graphics library.
       Specifically, I worked on the design and implementation of:
       - Main game loop system
       - Graphics classes (sprite_renderer, shader, texture, post_processor)
