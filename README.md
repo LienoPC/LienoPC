@@ -13,7 +13,7 @@ Humble Computer Engineer and Game Developer.
         - Game loading management and game architecture; game states logic and transition between states
         - Game design and level design (level 4)
         - Integration of FMOD Studio within the project pipeline and audio engineering of the entire project
-  - **True Vision | GGJ 2026** - [Itch.io page]() - [Trailer](https://www.youtube.com/watch?v=tWzppYTZRHA)
+  - **True Vision | GGJ 2026** - [Itch.io page](https://programmatore-unity.itch.io/true-vision) - [Trailer](https://www.youtube.com/watch?v=tWzppYTZRHA)
       - Project developed during the 2026 Global Game Jam in a team of 5 people. Worked as programmer, specifically on:
         - Attacks, hitbox and enemy-interaction mechanics
         - Hook mechanic with interaction with walls and object dragging
